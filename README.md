@@ -21,7 +21,7 @@ Um sistema simples de sorteio de amigo secreto, desenvolvido como parte de um de
 ## 📌 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone (https://github.com/lahlops21/Projeto-do-amigo-Secreto.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
