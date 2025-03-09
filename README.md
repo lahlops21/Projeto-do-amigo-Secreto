@@ -1,4 +1,4 @@
-# 🎉 Sistema de Sorteio de Amigo Secreto
+#  Challenge Projeto do Amigo Secreto
 
 Um sistema simples de sorteio de amigo secreto, desenvolvido como parte de um desafio de aprendizado em JavaScript. O projeto permite adicionar nomes, armazená-los, exibi-los na tela e sortear um nome aleatoriamente ao clicar em um botão.
 
