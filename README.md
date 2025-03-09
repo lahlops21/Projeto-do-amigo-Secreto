@@ -25,10 +25,11 @@ Um sistema simples de sorteio de amigo secreto, desenvolvido como parte de um de
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd NOME_DO_REPOSITORIO
+   cd Projeto-do-amigo-Secreto
    ```
 3. Abra o arquivo `index.html` no navegador.
 
-## 👤 Autor
+## 👤 Autora
+
 Desenvolvido por [Lais Lopes](https://github.com/lahlops21). 😊
 
